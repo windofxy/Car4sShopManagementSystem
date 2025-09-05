@@ -1,6 +1,6 @@
 package cn.windofxy.car4sshopmanagementsystembackend.service.UserService;
 
-import cn.windofxy.car4sshopmanagementsystembackend.mapper.UserMapper;
+import cn.windofxy.car4sshopmanagementsystembackend.mapper.UserMapper.UserMapper;
 import cn.windofxy.car4sshopmanagementsystembackend.model.User.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.UncategorizedSQLException;

@@ -1,4 +1,4 @@
-package cn.windofxy.car4sshopmanagementsystembackend.mapper;
+package cn.windofxy.car4sshopmanagementsystembackend.mapper.UserMapper;
 
 import cn.windofxy.car4sshopmanagementsystembackend.model.User.User;
 import org.apache.ibatis.annotations.*;
