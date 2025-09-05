@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import LoginWindow from '@/components/LoginWindow.vue'
-import RegisterWindow from '@/components/RegisterWindow.vue'
+import LoginWindow from '../components/LoginWindow.vue'
+import RegisterWindow from '../components/RegisterWindow.vue'
 </script>
 
 <template>
